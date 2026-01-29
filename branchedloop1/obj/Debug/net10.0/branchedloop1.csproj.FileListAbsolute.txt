@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/bin/Debug/net10.0/branchedloop1
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/bin/Debug/net10.0/branchedloop1.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/bin/Debug/net10.0/branchedloop1.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/bin/Debug/net10.0/branchedloop1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/bin/Debug/net10.0/branchedloop1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/branchedloop1.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/branchedloop1.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/branchedloop1.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/branchedloop1.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/branchedloop1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/refint/branchedloop1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/branchedloop1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/branchedloop1.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/branchedloop1/obj/Debug/net10.0/ref/branchedloop1.dll

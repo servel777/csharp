@@ -1,0 +1,14 @@
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/bin/Debug/net10.0/enum1
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/bin/Debug/net10.0/enum1.deps.json
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/bin/Debug/net10.0/enum1.runtimeconfig.json
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/bin/Debug/net10.0/enum1.dll
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/bin/Debug/net10.0/enum1.pdb
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/enum1.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/enum1.AssemblyInfoInputs.cache
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/enum1.AssemblyInfo.cs
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/enum1.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/enum1.dll
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/refint/enum1.dll
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/enum1.pdb
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/enum1.genruntimeconfig.cache
+/home/servel/Descargas/compartir/tutoriales/csharp/enum1/obj/Debug/net10.0/ref/enum1.dll

@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/bin/Debug/net10.0/distinct
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/bin/Debug/net10.0/distinct.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/bin/Debug/net10.0/distinct.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/bin/Debug/net10.0/distinct.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/bin/Debug/net10.0/distinct.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/distinct.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/distinct.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/distinct.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/distinct.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/distinct.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/refint/distinct.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/distinct.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/distinct.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/distinct/obj/Debug/net10.0/ref/distinct.dll

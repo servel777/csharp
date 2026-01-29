@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/async1.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/async1.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/async1.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/async1.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/bin/Debug/net10.0/async1
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/bin/Debug/net10.0/async1.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/bin/Debug/net10.0/async1.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/bin/Debug/net10.0/async1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/bin/Debug/net10.0/async1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/async1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/refint/async1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/async1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/async1.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/async1/obj/Debug/net10.0/ref/async1.dll

@@ -1,0 +1,14 @@
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/bin/Debug/net10.0/switch2
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/bin/Debug/net10.0/switch2.deps.json
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/bin/Debug/net10.0/switch2.runtimeconfig.json
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/bin/Debug/net10.0/switch2.dll
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/bin/Debug/net10.0/switch2.pdb
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/switch2.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/switch2.AssemblyInfoInputs.cache
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/switch2.AssemblyInfo.cs
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/switch2.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/switch2.dll
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/refint/switch2.dll
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/switch2.pdb
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/switch2.genruntimeconfig.cache
+/home/servel/Descargas/compartir/tutoriales/csharp/switch2/obj/Debug/net10.0/ref/switch2.dll

@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/bin/Debug/net10.0/double1
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/bin/Debug/net10.0/double1.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/bin/Debug/net10.0/double1.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/bin/Debug/net10.0/double1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/bin/Debug/net10.0/double1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/double1.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/double1.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/double1.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/double1.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/double1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/refint/double1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/double1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/double1.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/obj/Debug/net10.0/ref/double1.dll

@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/variables4.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/variables4.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/variables4.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/variables4.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/bin/Debug/net10.0/variables4
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/bin/Debug/net10.0/variables4.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/bin/Debug/net10.0/variables4.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/bin/Debug/net10.0/variables4.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/bin/Debug/net10.0/variables4.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/variables4.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/refint/variables4.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/variables4.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/variables4.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/variables4/obj/Debug/net10.0/ref/variables4.dll

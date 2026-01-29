@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/bin/Debug/net10.0/ifstatement
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/bin/Debug/net10.0/ifstatement.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/bin/Debug/net10.0/ifstatement.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/bin/Debug/net10.0/ifstatement.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/bin/Debug/net10.0/ifstatement.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ifstatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ifstatement.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ifstatement.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ifstatement.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ifstatement.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/refint/ifstatement.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ifstatement.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ifstatement.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/ifstatement/obj/Debug/net10.0/ref/ifstatement.dll

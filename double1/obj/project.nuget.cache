@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDPhqHcFhrU=",
+  "success": true,
+  "projectFilePath": "/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/double1/double1.csproj",
+  "expectedPackageFiles": [
+    "/home/servel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/bin/Debug/net10.0/for1
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/bin/Debug/net10.0/for1.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/bin/Debug/net10.0/for1.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/bin/Debug/net10.0/for1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/bin/Debug/net10.0/for1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/for1.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/for1.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/for1.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/for1.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/for1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/refint/for1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/for1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/for1.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/for1/obj/Debug/net10.0/ref/for1.dll

@@ -1,0 +1,14 @@
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/bin/Debug/net10.0/string1
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/bin/Debug/net10.0/string1.deps.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/bin/Debug/net10.0/string1.runtimeconfig.json
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/bin/Debug/net10.0/string1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/bin/Debug/net10.0/string1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/string1.GeneratedMSBuildEditorConfig.editorconfig
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/string1.AssemblyInfoInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/string1.AssemblyInfo.cs
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/string1.csproj.CoreCompileInputs.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/string1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/refint/string1.dll
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/string1.pdb
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/string1.genruntimeconfig.cache
+/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/string1/obj/Debug/net10.0/ref/string1.dll

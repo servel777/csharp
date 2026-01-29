@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEQO5Ev40CI=",
+  "success": true,
+  "projectFilePath": "/home/servel/Descargas/Downloads/compartir/tutoriales/csharp/numbers1/numbers1.csproj",
+  "expectedPackageFiles": [
+    "/home/servel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
